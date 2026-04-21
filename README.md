@@ -14,5 +14,21 @@ flax Malcolm: +263775597819
 
 official telegram paring super easy and fast⏩ 
 https://t.me/insightxmd_bot
+__________________________________________________________________
+what's new
+
+vv command now working properly no errors 
+
+gtp working plugins now imported 
+
+song apis now working properly there was a little error on previous script
+
+tagall now working the tagall now working properly with no error 
+
+autoreact fixed if turned on, bot will react 
+if off bot stops auto react
+
+
+
 
 

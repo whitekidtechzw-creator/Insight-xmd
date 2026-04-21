@@ -9,14 +9,12 @@ Smart • Fast • Powerful WhatsApp Bot
 
 <div align="center">""PAIR CODE" (https://img.shields.io/badge/🔑_GET_PAIR_CODE-black?style=for-the-badge)" (https://t.me/insightxmd_bot)
 
-""WHATSAPP CHANNEL" 
-
-(https://img.shields.io/badge/📢_CHANNEL-green?style=for-the-badge)" 
+""WHATSAPP CHANNEL"
+src="https://img.shields.io/badge/📢_CHANNEL-green?style=for-the-badge" 
 (https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y)
 
 ""WHATSAPP GROUP"
-
-(https://img.shields.io/badge/👥_GROUP-darkgreen?style=for-the-badge)"
+src="https://img.shields.io/badge/👥_GROUP-darkgreen?style=for-the-badge"
 (https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t)
 
 </div>---
@@ -72,9 +70,9 @@ node .
 
 ⚙️ CONFIGURATION
 
-global.ownerNumber = "263780672717";
+global.ownerNumbers = "263780672717 & +263775597819";
 
-global.ownerName = "WHITEKID TECH";
+global.ownerslNames = "WHITEKID TECH & FLAX MALCOM";
 
 global.botname = "INSIGHT-XMD BOT";
 

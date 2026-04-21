@@ -10,11 +10,11 @@ Smart • Fast • Powerful WhatsApp Bot
 <div align="center">""PAIR CODE" (https://img.shields.io/badge/🔑_GET_PAIR_CODE-black?style=for-the-badge)" (https://t.me/insightxmd_bot)
 
 ""WHATSAPP CHANNEL"
-src="https://img.shields.io/badge/📢_CHANNEL-green?style=for-the-badge" 
+ 
 (https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y)
 
 ""WHATSAPP GROUP"
-src="https://img.shields.io/badge/👥_GROUP-darkgreen?style=for-the-badge"
+
 (https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t)
 
 </div>---

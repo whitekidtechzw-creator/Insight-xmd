@@ -7,7 +7,7 @@ Smart • Fast • Powerful WhatsApp Bot
 
 🔗 QUICK ACCESS
 
-<div align="center">""PAIR CODE" (https://img.shields.io/badge/🔑_GET_PAIR_CODE-black?style=for-the-badge)" (https://t.me/insightxmd_bot)
+ (https://t.me/insightxmd_bot)
 
 ""WHATSAPP CHANNEL"
  

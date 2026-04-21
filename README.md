@@ -1,4 +1,4 @@
-<div align="center"><img src="https://files.catbox.moe/op1hr3.png" width="100%" style="max-width: 400px; border-radius: 15px; margin-bottom: 20px;"/><h1>INSIGHT-XMD BOT</h1>
+<div align="center"><img src="https://files.catbox.moe/op1hr3.png" width="50%" style="max-width: 40px; border-radius: 15px; margin-bottom: 10px;"/><h1>INSIGHT-XMD BOT</h1>
 <p><b>Developed by Whitekid Tech</b></p><p>
 ⚡ Ultra Fast • 🤖 Smart AI • 📱 WhatsApp Automation  
 🇿🇼 Proudly Made in Zimbabwe
@@ -70,7 +70,7 @@ global.ownerNumber = "263780672717";
 global.ownerName = "WHITEKID TECH";
 
 global.botname = "INSIGHT-XMD BOT";
-global.prefix = ".";
+global.prefix = "!";
 
 // Enable / Disable
 global.private = true;

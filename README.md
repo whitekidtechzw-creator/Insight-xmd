@@ -10,32 +10,44 @@ Smart • Fast • Powerful WhatsApp Bot
  (https://t.me/insightxmd_bot)
 
 ""WHATSAPP CHANNEL"
+
 (https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y)
 
 ""WHATSAPP GROUP"
+
 (https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t)
 
 </div>---
 
 ⚡ FEATURES
 🤖 AI SYSTEM
+
 ✔ Smart Chatbot
+
 ✔ Auto Replies
+
 ✔ Command Handling
+
 ✔ Group + Private Support
 
 🎵 MEDIA TOOLS
 
 ✔ YouTube Downloader
+
 ✔ TikTok Downloader
+
 ✔ Instagram Downloader
+
 ✔ Facebook & Twitter Media
 
 🔥 CORE SYSTEM
 
 ✔ Ultra Fast Performance
+
 ✔ Stable & Optimized
+
 ✔ Low RAM Usage
+
 ✔ Error Handling Improved
 
 ---
@@ -46,9 +58,11 @@ pkg update -y && pkg upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick libwebp python yarn
 
 git clone https://github.com/whitekidtechzw-creator/Insight-xmd.git
+
 cd INSIGHT-XMD
 
 npm install
+
 yarn install
 
 node .
@@ -58,12 +72,19 @@ node .
 ⚙️ CONFIGURATION
 
 global.ownerNumbers = "263780672717 & +263775597819";
+
 global.ownerslNames = "WHITEKID TECH & FLAX MALCOM";
+
 global.botname = "INSIGHT-XMD BOT";
+
 global.prefix = ".";
+
 global.private = true;
+
 global.group = true;
+
 global.autoread = true;
+
 global.chatbot = true;
 
 ---
@@ -73,14 +94,19 @@ global.chatbot = true;
 Click below to connect your bot:
 👉 https://t.me/insightxmd_bot
 ✔ Generate Pair Code
+
 ✔ Link WhatsApp
+
 ✔ Start Bot Instantly
 
 ---
 
 🧠 EXTRA
+
 ✔ No panel needed
+
 ✔ No deployment required
+
 ✔ Runs directly on Termux
 
 ✔ Lightweight & Fast
@@ -97,7 +123,9 @@ Click below to connect your bot:
 ⭐ SUPPORT
 If you like this project:
 ⭐ Star the repo
+
 📢 Share with others
+
 💬 Join the WhatsApp group
 
 ---

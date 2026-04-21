@@ -9,9 +9,15 @@ Smart • Fast • Powerful WhatsApp Bot
 
 <div align="center">""PAIR CODE" (https://img.shields.io/badge/🔑_GET_PAIR_CODE-black?style=for-the-badge)" (https://t.me/insightxmd_bot)
 
-""WHATSAPP CHANNEL" (https://img.shields.io/badge/📢_CHANNEL-green?style=for-the-badge)" (https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y)
+""WHATSAPP CHANNEL" 
 
-""WHATSAPP GROUP" (https://img.shields.io/badge/👥_GROUP-darkgreen?style=for-the-badge)" (https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t)
+(https://img.shields.io/badge/📢_CHANNEL-green?style=for-the-badge)" 
+(https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y)
+
+""WHATSAPP GROUP"
+
+(https://img.shields.io/badge/👥_GROUP-darkgreen?style=for-the-badge)"
+(https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t)
 
 </div>---
 
@@ -54,7 +60,7 @@ Smart • Fast • Powerful WhatsApp Bot
 pkg update -y && pkg upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick libwebp python yarn
 
-git clone https://github.com/YOUR-REPO/INSIGHT-XMD.git
+git clone https://github.com/whitekidtechzw-creator/Insight-xmd.git
 cd INSIGHT-XMD
 
 npm install

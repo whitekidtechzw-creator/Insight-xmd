@@ -1,4 +1,4 @@
-<div align="center"><img src="https://files.catbox.moe/hg8g3p.jpg" width="100%" style="max-width: 400px; border-radius: 15px; margin-bottom: 20px;"/><h1>INSIGHT-XMD BOT</h1>
+<div align="center"><img src="https://files.catbox.moe/op1hr3.png" width="100%" style="max-width: 400px; border-radius: 15px; margin-bottom: 20px;"/><h1>INSIGHT-XMD BOT</h1>
 <p><b>Developed by Whitekid Tech</b></p><p>
 ⚡ Ultra Fast • 🤖 Smart AI • 📱 WhatsApp Automation  
 🇿🇼 Proudly Made in Zimbabwe
@@ -22,21 +22,29 @@
 🤖 BOT CAPABILITIES
 
 • Smart AI Chatbot
+
 • Auto Reply System
+
 • Group & Private Chat Support
+
 • Custom Commands
 
 🎵 MEDIA FEATURES
 
 • YouTube Downloader
+
 • TikTok Downloader
+
 • Instagram Media
+
 • Facebook & Twitter Support
 
 🔧 SYSTEM
 
 • Fast Response Speed
+
 • Stable & Optimized
+
 • Error Handling Improved
 
 ---
@@ -84,8 +92,11 @@ Then generate your pair code and link your WhatsApp.
 ⚠️ NOTES
 
 ✔ No panel needed
+
 ✔ No deployment required
+
 ✔ Works directly on Termux
+
 ✔ Fast & lightweight
 
 ---
@@ -93,6 +104,7 @@ Then generate your pair code and link your WhatsApp.
 💙 CREDIT
 
 Made with ❤️ by Whitekid Tech
+
 INSIGHT-XMD BOT © 2026
 
 

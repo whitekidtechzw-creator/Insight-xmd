@@ -1,34 +1,99 @@
-# Insight-xmd
-A multiple WhatsApp bot
+<div align="center"><img src="https://files.catbox.moe/hg8g3p.jpg" width="100%" style="max-width: 400px; border-radius: 15px; margin-bottom: 20px;"/><h1>INSIGHT-XMD BOT</h1>
+<p><b>Developed by Whitekid Tech</b></p><p>
+⚡ Ultra Fast • 🤖 Smart AI • 📱 WhatsApp Automation  
+🇿🇼 Proudly Made in Zimbabwe
+</p></div>---
 
-🗨️wa channel 
-https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y
+🏆 OFFICIAL LINKS
 
-🗨️pairing wa GC
-https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t
+🔗 Pair Code (Get Started)
+👉 https://t.me/insightxmd_bot
 
-contact owners✨🗨️
+📢 WhatsApp Channel
+👉 https://whatsapp.com/channel/0029Vb8AqDL23n3c0xAuLG3y
 
-whitekid: +263780672717
+👥 WhatsApp Group
+👉 https://chat.whatsapp.com/EcicwNwXSZi9WVS5tG75fs?mode=gi_t
 
-flax Malcolm: +263775597819
+---
 
-official telegram paring super easy and fast⏩ 
-https://t.me/insightxmd_bot
-__________________________________________________________________
-what's new
+✨ FEATURES
 
-vv command now working properly no errors 
+🤖 BOT CAPABILITIES
 
-gtp working plugins now imported 
+• Smart AI Chatbot
+• Auto Reply System
+• Group & Private Chat Support
+• Custom Commands
 
-song apis now working properly there was a little error on previous script
+🎵 MEDIA FEATURES
 
-tagall now working the tagall now working properly with no error 
+• YouTube Downloader
+• TikTok Downloader
+• Instagram Media
+• Facebook & Twitter Support
 
-autoreact fixed if turned on, bot will react 
-if off bot stops auto react
+🔧 SYSTEM
 
+• Fast Response Speed
+• Stable & Optimized
+• Error Handling Improved
+
+---
+
+📱 TERMUX INSTALLATION
+
+pkg update -y && pkg upgrade -y
+pkg install -y git nodejs ffmpeg imagemagick libwebp python yarn
+
+git clone https://github.com/YOUR-REPO/INSIGHT-XMD.git
+cd INSIGHT-XMD
+
+npm install
+yarn install
+
+node .
+
+---
+
+⚙️ CONFIGURATION
+
+global.ownerNumber = "263780672717";
+global.ownerName = "WHITEKID TECH";
+
+global.botname = "INSIGHT-XMD BOT";
+global.prefix = ".";
+
+// Enable / Disable
+global.private = true;
+global.group = true;
+global.autoread = true;
+global.chatbot = true;
+
+---
+
+🔑 PAIR CODE SYSTEM
+
+To connect your bot:
+
+👉 Click here: https://t.me/insightxmd_bot
+Then generate your pair code and link your WhatsApp.
+
+---
+
+⚠️ NOTES
+
+✔ No panel needed
+✔ No deployment required
+✔ Works directly on Termux
+✔ Fast & lightweight
+
+---
+
+💙 CREDIT
+
+Made with ❤️ by Whitekid Tech
+INSIGHT-XMD BOT © 2026
 
 
 
